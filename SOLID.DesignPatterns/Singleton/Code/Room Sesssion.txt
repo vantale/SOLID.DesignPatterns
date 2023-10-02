@@ -1,0 +1,41 @@
+﻿-------------------------------
+Session 1 - 10 minut
+-------------------------------
+
+Pytanie 2
+Dlaczego tworzenie wielu obiektów nie jest zalecane?
+
+Pytanie 3
+Kiedy używać Singletona lub konceptu opartego na nim?
+
+Pytanie 4
+Dlaczego warto znać wzorzec Singleton?
+
+-------------------------------
+Session 2 - 8 minut
+-------------------------------
+Pytanie 5
+Czy warto zamykać klasę singletona słowem sealed?
+Kiedy singleton może brać udział w dziedziczeniu?
+
+-------------------------------
+Session 3 - 3 minut
+-------------------------------
+Zadanie: użyć statycznej publicznej właściwości, aby rozwiązać problem konkurencji inicjalizacji
+
+-------------------------------
+Session 4 - 3 minuty
+-------------------------------
+Pytanie 6
+Czy zmienne statyczne są thread safe, jako zmienne globalne?
+Czy zmienna lokalne są thread safe?
+
+-------------------------------
+Session 5 - 15 minut
+-------------------------------
+SOLID
+
+
+Session 6 - 10 minut
+-------------------------------
+Za i przeciw
